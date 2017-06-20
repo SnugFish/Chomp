@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chomp-171223",
+  "private_key_id": "271a48c3b9f43af547f86d3a8c9d6fd2dabff955",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgYDOYuBoEK2sF\nue9CiHDg6Tf10yPs6QkyjH+8zhoSDLaiMPIpp4Xra9TbHidx1xiOt+LbFIwgjZDm\nsCtBKZF7XQPC+QRSs0x3pwrzDItt1PWs+XtIBI+Vdv1EgSOqhXJVYGF51LhRBpeu\nzAYAnWU1Xn3j/zyIOpHXfZ8aZhY4jYlq608FnqWu4iJtvq4lbaFiMFyPSET19zsY\nm8OjeQQ5uDz3GrABwiQIyRRPYr9NLTrWPBHSYI2duQZD/eZqXf2gkpxQHkjVQ29d\nR4RANn95y1TTIAI5bte9ejtQ/XezgTVOQ1cHxVz/vGRjrldOh4KAiE+KW24W1G/Q\n/5bWy/e3AgMBAAECggEAS6nHfgRRpej0F6IG6x1jIAF3+N8SAnpZcANQWrvkGeLs\noW21OojCSnU32d8Kng9skxzXhyPVDqCrneK8rYQWkpyqIykH7JqR95uUM2IWQA2q\nkN6tVqdsNIiMae8BbDiEXhpYMrn08alKE9pG9LBNaRX5EAHBxcXYO9IVJ8fFMQ16\nMagM56efAygap/n6D2OaT4BCahS9FRPS8rlcgeC39rhBi7Oh0tKmBxQA4laMRUO/\nA44xnnCKf3SHQoygKMZmnMunIA0KQNvk7e0FDgkJZHbUCt8tZTmyTc+XOgAgcpf5\nqqn4y2ZJy483h/gJiBi2RT3s2ZM1Uuf7nzSE1F/tiQKBgQDVxJT6DAREam0NqcRD\nau6I6OWF1FqGYdn3f+5RY529ZyTxIZ3CivCIHonwpiBCwUf1+Tbkh2akjFRgDUoB\ndU3S9wzxanhNmAqc68+A7vs5eY/N3EMEhiRhIcWHdloI6+GCsn5KXlnt2x621vez\nA9bAn1PzBsCgov8ajKjMultVCQKBgQDAD0l3CRK9FNL01KGlslkYSnEcnXw8Adkq\nFz6ig1/hG85qDPFrvYOat30O70F2jKpae6JfDUznwXMZdu6woZm6ePO3T4JvSU8U\nSsdge49fq/P4lDf8QJKWG5a40SBb//mlDK5fQGN4w+CdAns9ci+kjLsMZqiq4mRX\ndJD6XYLWvwKBgQCf8RzyVclfky2TOoFhXAGrqG4LCw7MWyxl1W9vsBQW4bSvQlKy\ne5hqkEbvKq0apVj9PoEGzhRLa7+5ulez7ZvUDArAGsR2chsGvB0ewDByGXUyNuph\n2SghEM6lgzTsVej+DCUX6a5pnDhH32GnrGii6NM8E8JOroYmzDWEMK8jWQKBgHAX\nO/AuKnKSOcDMbH9RRLBpmfRycXRwO7dWE6czd3zhBqpcXXZdB/b/SgyyVImE9VOT\nvqMtFwpXm/5rrEkIN7leKBd/XwfmSDH2psBHvNjAecZFcxtU8HiNJ308CF/JWIEc\nkpRi9usfnvLj5NtqziWCQRSuwZfiQ1/LV2XXt6nvAoGAJRxL23P3PQo4lnbOBRVL\nlXYQz7ZecGZApnAkkULCD6DmvYObnf5QuryIZyDu89vFaJOb+2FjIuu+TFiMtvKO\npJClrFFrKSiB4MTKz59H2f+5A9OyFFeqQqDBihpQSqrvrNrU3PuO9+D6uR4AX0TN\nGka2AdbYJgMygfRasPWjD6I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "snugfish@chomp-171223.iam.gserviceaccount.com",
+  "client_id": "105451804995030819889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/snugfish%40chomp-171223.iam.gserviceaccount.com"
+}
